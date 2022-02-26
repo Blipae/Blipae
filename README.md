@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: Koris Bot
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
-- 🥅 Goals: Finish college
+- 🥅 Goals: Finish my studies
 
 ### Social Media:
 
@@ -26,8 +26,6 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="padding-right:1rem;" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="padding-right:1rem;" />
-
-<img align="left" alt="SQL" width="26px" src="https://image.flaticon.com/icons/png/512/29/29595.png" style="padding-right:1rem;" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="padding-right:1rem;" />
 
