@@ -1,4 +1,4 @@
-# Hi im Ocelotl 👋
+# Hi im Blipae 👋
 
 ## I'm a beginner but passionate programmer 🧡!
 
