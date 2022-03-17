@@ -17,20 +17,6 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966">
 </div>
 
-  ###
-  ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=drgatoxd&show_icons=true&theme=dracula)
- 
-  ###
-  ---
- 
-<div> 
-  <a target="_blank" href="https://www.youtube.com/channel/UCHY3_scfbXSPc5B9SLgqPKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://drgatoxd.ga/discord" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
-<br/>
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B3ALHQC)
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
