@@ -1,6 +1,6 @@
 # Hi im Blipae 👋
 
-## I'm a beginner but passionate programmer 🧡!
+## I'm a beginner but passionate programmer 🤍!
 
 - 🔭 I’m currently working on: Koris Bot
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
