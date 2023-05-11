@@ -2,9 +2,8 @@
 
 ## I'm a beginner but passionate programmer 🤍!
 
-- 🔭 I’m currently working on: Koris Bot
+- 🔭 I’m currently working on: Omnia Bot
 - 🌱 I’m currently learning JavaScript/NodeJs/TypeScript
-- 🥅 Goals: Finish my studies
 
 <div style="display: inline_block">
   <h3>Lenguajes y herramientas</h3>
