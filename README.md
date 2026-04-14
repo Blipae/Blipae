@@ -15,4 +15,4 @@
   <img align="center" alt="Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
   
-![Snake animation](https://github.com/Platane/snk)
+![Snake animation](dist/github-snake-dark.svg?palette=github-dark)
